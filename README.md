@@ -1,8 +1,8 @@
 # Python Pokedex
 
-This is a application built using Python 3.8 which works by utillizing the PyPokedex is a minimal Pokedex library for Python that uses PokeAPI internally to get Pokemon data. All Kanto, Johto and even more Pokemon are available from this Pokedex.
+This is a application built using Python 3.8 which works by utilizing the PyPokedex is a minimal Pokedex library for Python that uses PokeAPI internally to get Pokemon data. All Kanto, Johto and even more Pokemon are available from this Pokedex.
 
-## Prequistes 
+## Prerequisite
 
 The Following Modules are used in this application 
 
